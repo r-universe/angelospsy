@@ -1,0 +1,10 @@
+[
+  {
+    "package": "condir",
+    "oncran": true
+  },
+  {
+    "package": "multifear",
+    "oncran": true
+  }
+]
